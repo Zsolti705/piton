@@ -1,0 +1,51 @@
+1. Szabályos háromszög kerülete és területe. Ha bekérjük a háromszög oldalhoszúságát.
+2. Rombusz területe, kerülete, ha bekérjük a magasságát és oldalhosszüságát.
+3. Egy áramköri elem ellenállása 25 ohm, a rajta átfolyó áramerőssége 2 amper. Mekkora a feszültsége? 
+4. Egy kerékpáros 10km/h sebességről 20km/h-ra növelte sebességét bekért idő alatt? Mekkora utat tett meg ezalatt? képlet:
+s=v0*t+a/2*t*t, a=(v-v0)/(t-t0)
+5. Egy derékszögű háromszög két befogóját kérd be, és számold ki az átfogóját a pitagorász- tétel alapján.
+6. Másodfokú egyenlet megoldóképlete: x=(-b+(b*b-4*a*c)1/2)2*a, kérd be a három változót.
+7. Kérd be az a és b változót, és határozd meg velük az összes lehetséges matamatikai műveletet pythonban.
+8. Hány darab téglára van szükség egy bekért felületű fal megépítésére, ha a tégla felületét is bekéred?
+9. Almát szeretnénk vásárolni. Készíts egy programot, amelyben először bekéri egy kilogramm alma árát, majd azt, hogy hány
+kilogramm almát szeretnénk venni. Végül a program számolja ki nekünk, hogy mennyi koronát kell fizetnünk.
+10.Írjál egy programot, amely bekér két egész számot,
+majd kiírja a két szám egész hányadosát és maradékát.
+11.Kérjünk be három egész számot! Ezek a számok feleljenek meg sorban 5 koronásnak, 2koronásnak, 1 koronásnak! Majd számoljuk ki, hogy összesen hány koronánk
+van!
+12. Készíts programot, amely bekér egy bizonyos pénzösszeget! A szám legyen 1-100 közötti!) Majd határozd meg, hogy hogyan tudjuk a
+legkevesebb 10, 5, 2, illetve 1 koronással kifizetni!
+13. Készíts programot, amely bekér három nem egész számot (x,y,z) majd készítsed el a következő képleteket! x2+y2+z2=  y5+z3=   √𝑥 + √𝑦=
+A feladat megoldásához, a függvények használatához az első sorba gépeld be: szöveget!
+A matematikai függvények használatához szükséges előzőleg be kell tölteni a „math” függvénykönyvtárat!
+14. A csomó a hajózás területén használt sebességmértékegység. Egy nemzetközi csomó alatt egy
+tengeri mérföld óránkénti sebességet értünk. Ez pontosan 1,852 km/h. Készíts egy olyan programot, amelybe ha beírsz
+egy számot, ami csomóban van, akkor kiírja, hogy az mennyi km/h!
+15. Zárójelezd úgy a 6 * 1 - 2 kifejezést, hogy a 4 helyett -6 legyen az értéke.
+16. Indítsd el a Python értelmezőt, és gépeld be a Pista + 4 kifejezést, majd üss egy Entert. Az alábbi hiba jelenik meg: NameError: name 'Pista' is not defined. Rendelj olyan értéket Pista változóhoz, hogy a Pista + 4 kifejezés értéke 10 legyen.
+17. Vegyél fel két változót és adj nekik tetszőleges egész értéket. Cseréld fel a változókban tárolt értékeket a memóriában. 
+18. Írj programot, amely meghatározza, mennyi lesz egy betét értéke a futamidő végén, ha 10000 Ft-t helyezünk betétbe 8%-os névleges kamatláb mellett. Az évközi kamatozások száma (m) 12. Az évek számát, vagyis a t értékét a felhasználótól kérje be a program. A futamidő végén nézett értéket (FV) az alábbi képlet alapján számold:
+FV=C*(1+r/m)mt
+
+
+Elágazások
+
+1. Kérj be egy tetszőleges egész számot a felhasználótól. Döntsd el, hogy milyen előjelű, majd a program írja a képernyőre, hogy negatív, nulla vagy pozitív a beírt szám.
+2. Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre a legkisebb értéket ezek közül!
+3. Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre a legnagyobb értéket ezek közül!
+4. Írj egy Python programot, amely bekér egy dolgozat pontszámot (x) a felhasználótól és kiír egy érdemjegyet az alábbiak szerint!
+1: x<50; 2: 50<=x<60; 3: 60<=x<70; 4: 70<=x<85; 5: x>=85.
+5. Írj egy Python programot, amely bekér egy egész számot a felhasználótól és kiírja a képernyőre, hogy osztható-e (igen/nem) a szám 3-mal vagy 5-tel!
+6. Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre, hogy a számok közül bármelyik kettőnek az összege egyenlő-e a harmadik számmal!
+7. Írj egy Python programot, amely bekér három egész számot a felhasználótól és kiírja a képernyőre, hogy mind a három páros szám-e (igen/nem)!
+Írj Python programot a másodfokú egyenlet megoldására a megoldóképlet alapján!
+Írj Python programot a kétismeretlenes lineáris egyenletrendszer megoldására a Cramer-szabály alapján!
+Mit ír ki az alábbi kód?
+x = 2
+y = 3
+
+if not( x == y or x + y == 6):
+    print(’Piff’)
+else:
+    print(’Puff’)
+
