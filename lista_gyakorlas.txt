@@ -1,0 +1,10 @@
+Írj programot, amely beolvas egy n természetes számot, majd n darab elemet generál 1 és 100 között, és 
+	Kiírja az 50 és 90 közötti elemek összegét! 
+	Kiírja a páros számok szorzatát! 
+	Eldönti, hogy van-e a listában 20 alatti elem! 
+	Kiválasztja az első 5-tel osztható szám helyét és értékét! 
+	Megszámolja, hogy mennyi egyjegyű szám van a listában! 
+	Megkeresi, hogy van-e 40-es érték a listában, és ha talál, akkor hol van! 
+	Megkeresi a lista legnagyobb és legkisebb elemének különbségét! (Az a legtágabb intervallum, amiben az elemek vannak) 
+	Beolvasunk egy [a,b] intervallumot, és az intervallumon belüli értékeket szétválogatjuk egy új listába. 
+	Rendezd az új lista elemeit sorrendbe! 

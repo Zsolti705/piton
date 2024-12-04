@@ -1,0 +1,29 @@
+﻿1. Töltsünk fel egy 10 elemű listát 1-1000-ig véletlen számokkal:
+	- Írassuk ki a tartalmát fordított sorrendben
+	- Számítsuk ki az elemek összegét
+	- Átlagoljuk az elemeket
+	- Írassuk ki az egy számjegyű elemeket egy új listába
+	- Számoljuk meg, hogy hány páros szám van a listában
+	- Írassuk ki a páratlan számokat, és legnagyobbat, legkisebbet közülük!
+	- Számítsuk ki az 3-mal osztható számok összegét
+	- Számoljuk meg hány nullára végződő szám van a listában
+	- Van-e 100-as a listában
+	- Mennyi a legnagyobb és legkisebb szám átlaga
+	- Rendezd csökkenő sorrendbe a páros számokat
+	- Rendezd növekvő sorrendbe a páratlan számokat
+
+
+
+2. Írj programot, amely két lista közös elemeit beleteszi egy új listába, és kiírja azokat!      	(Generálhatsz véletlen számokat is) 
+
+ 
+3. Írj programot, amely beolvas egy n természetes számot, majd n darab elemet generál 1 és 100 között, és 
+	Kiírja az 50 és 90 közötti elemek összegét! 
+	Kiírja a páros számok szorzatát! 
+	Eldönti, hogy van-e a listában 50 feletti elem! 
+	Kiválasztja az utolsó 2-vel osztható szám helyét és értékét! 
+	Megszámolja, hogy mennyi kétjegyű, páratlan szám van a listában! 
+	Megkeresi, hogy van-e 10-es érték a listában, és ha talál, akkor hol van! 
+	Megkeresi a lista legnagyobb és legkisebb elemének átlagát! (Az a legtágabb intervallum, amiben az elemek vannak) 
+	Beolvasunk egy [a,b] intervallumot, és az intervallumon kivüli értékeket szétválogatjuk egy listába. 
+	Rendezd a lista elemeit csökkenő sorrendben! 
