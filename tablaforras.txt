@@ -1,0 +1,22 @@
+<table>
+  <tr>
+    <td>Szibériai husky adatai</td>
+  </tr>
+  <tr>
+    <td>Származási hely</td>
+    <td>Szibéria</td>
+  </tr> 
+  <tr>
+    <td>Marmagasság</td>
+    <td>kan: 53-59 cm szuka: 50-55 cm</td>
+  </tr>
+  <tr>
+    <td>Testtömeg</td>
+    <td>kan: 20-27 kg szuka: 15-22 kg</td>
+  </tr>
+  <tr>
+    <td>Várható élettartam</td>
+    <td>12-15 év</td>
+  </tr>
+ </table> 
+

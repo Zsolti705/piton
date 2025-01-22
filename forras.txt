@@ -1,0 +1,19 @@
+<div class="container" id="cont">
+<header>Szibériai husky</header>
+<main>
+Általános jellemzése
+
+A szibériai husky a munkakutyák (szánhúzás, teherhordás, vadászat) közé tartozik, közepes méretű, Kelet-Szibériából származik. Onnan elterjedt Alaszkában és Kanadában is. Szőrzete vastag, szagtalan, évente kétszer igen erősen vedlik, színe ordas vagy szürkés, nemritkán ezüstös színű. Mérsékelten tömör felépítésű és dús szőrzetű teste, álló füle és bozontos farka is északi származásra utal.
+Jellegzetes testtartása meglehetősen könnyed. Eredeti funkciója szerint hámban kiválóan dolgozik, könnyű terhet közepes sebességgel, hatalmas távolságokra elhúz. Testalkata és formája híven tükrözi eredendő erejét, sebességét, állóképességét. Kissé ferde szemeinek élénk és barátságos kifejezése a jó társ alkalmazkodó tulajdonságaira utal.
+
+Jellemvonások és tulajdonságok
+
+A fajtaleírás a szibériai huskyt barátságos, jámbor, figyelmes, közvetlen és idegenekkel, más kutyákkal szemben sem bizalmatlan vagy agresszív kutyaként jellemzi. A felnőtt kutyától bizonyos fokú méltóság és visszahúzódás várható. A szibériai husky nem rendelkezik olyan tulajdonságokkal, amelyek alkalmassá tennék őt betörők távol tartására vagy elűzésére. Azokat a vendégeket – legyenek azok várt vagy nem várt személyek – akiket kedvel, barátságosan üdvözli, a többieket azonban nem veszi figyelembe. Házőrző kutyának nem alkalmas.
+Önálló jelleme miatt inkább jó pajtás, feltéve, ha kölyökként megtanul engedelmes alattvalóként beilleszkedni a családba – a falkába. Vasfegyelem nem várható el a szibériai huskytól, mivel hiányzik belőle a sok kutyafajtára jellemző behódolási hajlam. A családon belül saját magának keresi meg azt a személyt, akinek engedelmeskedik – gyakran meglepetést okozva azoknak, akik el szeretnék nyerni a szeretetét. Azonban ez a kutya nem csak egyetlen emberhez ragaszkodik, mint például a Chow-Chow. A családot falkájának tekinti, azonban hogy ebben milyen helyet foglaljon el, azt az "embereinek" kell meghatároznia.
+
+Adatok
+
+Szín 	szürke és fehér, vagy vörös és fehér
+</main>
+<footer>Forrás: https://hu.wikipedia.org/wiki/Szib%C3%A9riai_husky</footer>
+</div>
